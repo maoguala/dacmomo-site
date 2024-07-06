@@ -26,7 +26,7 @@
     <!--Gamer info-Table-->
        <div class="gamer_table">
         <!--dropdown menu for index map, day or night, up hill or down hill-->
-
+        
        </div>  
 </body>
 <body>

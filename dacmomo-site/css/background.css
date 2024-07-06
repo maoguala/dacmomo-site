@@ -12,11 +12,11 @@
 }
 .gamer_table {
    height: 780px;
-   width: 1200px;
+   width: 900px;
    background-color: rgba(255,255,255,0.3);
-   box-shadow: 10px 8px 5px lightgray;
-   position: relative;
-   /*left: 13%*/
+}
+.gamer_scroll_bar{
+    
 }
 .aime_table {
    height: 100px;
