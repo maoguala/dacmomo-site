@@ -11,6 +11,7 @@
     <!--background-->
         <link rel="stylesheet" type="text/css" href="css/background.css"> 
             <div class="bg">
+                <!--<img src="/img/pure_gray.png">-->
                 <img src="/img/iniD_ae86.jpg">
             </div>        
 </body>

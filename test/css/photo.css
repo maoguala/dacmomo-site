@@ -1,0 +1,7 @@
+.background-container {
+    background-image: url('iniD_ae86.jpg'); /* 背景圖片的路徑 */
+    background-size: cover; /* 使用 cover 模式 */
+    background-position: center; /* 將背景圖片置中 */
+    background-repeat: no-repeat; /* 禁止重複背景圖片 */
+    height: 100vh; /* 設置容器高度為視窗高度的100%，可根據需要調整 */
+}
